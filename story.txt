@@ -1,0 +1,66 @@
+# Story_1
+Exited to go on to the Advanture...
+You are heading towards the champian Island,
+This Island is the land of champian.
+You feels nervous ...
+are you ready to play. (yes/no)
+
+# Story_2
+There is a wobbly bridge,
+this bridge is the way to the Island.
+Cross the bridge. (yes/no)
+
+# Story_3
+This is your Oppenent Master HATTORI HANZO.
+He is Grand Champian in the Game of 
+
+ROCK,PAPER and SCISSORS
+NO ONE have ever defieted him so far,
+Are you ready to play. (yes/no)
+
+# Story_4
+
+Welcome to the CENTER of the,
+Champian Island.
+This is the place where you have select
+your TEAM.
+
+There are 4 TEAM to choose from:
+1) Team Green
+2) Team Yellow
+3) Team Red 
+4) Team Blue
+
+# Story_5
+
+##Team Green
+KAPPA
+Join kappa? 
+__________
+Join Team Green! [1]
+Nah [2]
+Who? [3]
+
+##Team Blue
+HELLO!! Are you strong enoungh
+to join Team BLUE??
+__________
+Join Team Blue! [1]
+Nah [2]
+Who? [3]
+
+##Team Red
+SALUTION! A new Student
+for Team RED.
+__________
+Join Team Red! [1]
+Nah [2]
+Who? [3]
+
+##Team Yellow
+Pst, Wanna Join Team YELLOW?
+It'll be our little Sceret?
+__________
+Join Team Yellow! [1]
+Nah [2]
+Who? [3]
